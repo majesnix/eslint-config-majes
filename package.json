@@ -1,0 +1,35 @@
+{
+  "name": "eslint-config-majes",
+  "version": "0.0.1",
+  "description": "My Eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/majesnix/eslint-config-majes.git"
+  },
+  "author": "Dominic Claßen <dominic@dominic-classen.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/majesnix/eslint-config-majes/issues"
+  },
+  "homepage": "https://github.com/majesnix/eslint-config-majes#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.20",
+    "@typescript-eslint/eslint-plugin": "^4.12.0",
+    "@typescript-eslint/parser": "^4.12.0",
+    "codelyzer": "^6.0.1",
+    "eslint": "^7.17.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx": "^0.1.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "prettier": "^2.2.1",
+    "typescript": "^4.1.3"
+  }
+}
